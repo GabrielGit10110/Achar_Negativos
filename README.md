@@ -23,7 +23,7 @@ cd Achar_Negativos
 ### ⚙️ Como compilar:
 1. Transforme todos os arquivos.java em arquivos.class:
 ```bash
-javac -s src -d dist src/controller/MathOperations.java src/view/Main.java
+javac -s src -d dist src/controller/FindNegativeController.java src/view/FindNegative.java
 ```
 
 2. Execute:
