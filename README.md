@@ -18,7 +18,7 @@ javac -s src -d dist src/controller/MathOperations.java src/view/Main.java
 java -cp dist view.FindNegative
 ``` 
 
-* ⚙️ Opcional - Compilação para jar: *
+*⚙ Opcional - Compilação para jar:*
 1. Crie um MANIFEST.txt e adicione o caminho correto para a classe Main:
 ```bash
 touch MANIFEST.txt
