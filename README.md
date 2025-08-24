@@ -1,5 +1,5 @@
 # 🧑‍🚀 Achar Negativos
-Algoritmo para achar numeros negativos dentro de um vetor usando recursao.
+Algoritmo para achar numeros negativos dentro de um vetor usando recursão.
 
 ## 📝 Enunciado:
 Criar uma aplicação em Java que tenha uma função recursiva que calcule o somatório do N primeiros
@@ -18,14 +18,14 @@ javac -s src -d dist src/controller/MathOperations.java src/view/Main.java
 java -cp dist view.FindNegative
 ``` 
 
-*⚙️ Opcional - Compilacao para jar: *
+*⚙️ Opcional - Compilação para jar: *
 1. Crie um MANIFEST.txt e adicione o caminho correto para a classe Main:
 ```bash
 touch MANIFEST.txt
 echo 'Main-Class: view.FindNegative' > MANIFEST.txt
 ```
 
-2. Faca a compilacao para jar:
+2. Faca a compilação para jar:
 ```bash
 jar -cvfm FindNegatives.jar MANIFEST.txt -C dist .
 ```
