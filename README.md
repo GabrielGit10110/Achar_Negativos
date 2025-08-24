@@ -7,6 +7,19 @@ número NATURAIS (a função deve retornar zero para números negativos)
 O Código deve apresentar, em formato de comentário, como foi definida a condição de parada;
 O Código deve apresentar, em formato de comentário, como foi definida a relação de chamada dos passos;
 
+---
+
+## Como usar:
+
+### Clone esse repositório:
+```bash
+git clone https://github.com/GabrielGit10110/Achar_Negativos.git
+```
+### Entre no diretório:
+```bash
+cd Achar_Negativos
+```
+
 ### ⚙️ Como compilar:
 1. Transforme todos os arquivos.java em arquivos.class:
 ```bash
